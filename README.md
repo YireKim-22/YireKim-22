@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, I'm Yire Kim
+
+- 🎓 Computer & Information Engineering, Kwangwoon Univ.
+- 🌱 Learning: Git, JavaScript, Docker (OSS class, 2026)
+- 🛠️ I want to build:
+  * a sleek portfolio website to showcase my projects
+  * a fully-fledged indie game (maybe 2D)
 
 <!--
 **YireKim-22/YireKim-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
